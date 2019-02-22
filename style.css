@@ -1,0 +1,35 @@
+a {
+  font-size: 20px;
+  color: grey;
+  font-weight: bolder;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: red;
+}
+
+a:focus {
+  color: orange;
+}
+
+
+.button:hover {
+  background-color: green;
+}
+
+
+.button:focus {
+  background-color: orange;
+}
+
+.button:active {
+  background-color: yellow;
+}
+
+.text:hover {
+  background-color: green;
+}
